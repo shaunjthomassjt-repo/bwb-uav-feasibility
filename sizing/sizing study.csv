@@ -1,0 +1,7 @@
+Criteria,Weight,Pure BWB (No Fins),BWB + Twin Tip Fins,BWB + Center Fin
+L/D Potential,30%,5,4,3
+Yaw Stability ,25%,1,4,3
+Manufacturability (1.5m span),20%,4,3,3
+Payload Bay Integration,15%,4,4,2
+Structural Simplicity,10%,5,3,3
+TOTAL SCORE,100%,3.65,3.7,2.85
