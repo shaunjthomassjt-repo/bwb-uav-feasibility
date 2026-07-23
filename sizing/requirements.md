@@ -12,7 +12,7 @@
 
 | \*\*Cruise speed\*\* | 18 m/s | Mid-band for small hand-launched UAV; gives workable Re at reasonable chord. |
 
-| \*\*Launch method\*\* | Hand launch | \[ASSUMPTION] Drives stall speed ceiling. |
+| \*\*Launch method\*\* | Grass Runway | 
 
 | \*\*Target Re (cruise)\*\* | 500,000 | Per project scope |
 
